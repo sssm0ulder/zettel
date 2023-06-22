@@ -1,0 +1,1 @@
+Very often it is fear that shapes a person's thinking

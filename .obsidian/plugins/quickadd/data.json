@@ -1,0 +1,74 @@
+{
+  "choices": [
+    {
+      "id": "166a1053-33b1-4033-87df-8b074eb679e5",
+      "name": "add movie",
+      "type": "Macro",
+      "command": false,
+      "macroId": "c21398ee-6890-490d-8434-1fd54f62c45c"
+    }
+  ],
+  "macros": [
+    {
+      "name": "create film",
+      "id": "c21398ee-6890-490d-8434-1fd54f62c45c",
+      "commands": [
+        {
+          "name": "movies",
+          "type": "UserScript",
+          "id": "8134054b-dd4a-4001-8ad8-57a5628bdadc",
+          "path": "6-scripts/movies.js",
+          "settings": {
+            "OMDb API Key": "bf304b91"
+          }
+        },
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "66fe079d-9678-488a-ba47-f4d23d906234",
+          "choice": {
+            "id": "8172c19f-49d8-428b-953e-df702a8c0fa5",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "5-templates/movie.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}}}"
+            },
+            "folder": {
+              "enabled": false,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "0.17.1",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

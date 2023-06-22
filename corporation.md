@@ -1,0 +1,3 @@
+- A corporation is a set of legal documents lying in an attorney's office, registered by a state government agency. 
+	- A corporation is a small building with the name of a corporation on the gable
+	- A corporation is a legal entity created by documents and has independence from its owners.

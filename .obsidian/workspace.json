@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "5fbd4347779a0791",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eea0450710a8203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c20463b48fd1d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f7626a72ffa560b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "periodic/daily/2023-06-21.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44bfd9524ff4d8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f65869908bdc2c",
+        "type": "tabs",
+        "dimension": 58.88888888888889,
+        "children": [
+          {
+            "id": "6caf530dad487d6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "16ad4c65899668e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fff5f20d56938d18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c249afe109503d45",
+        "type": "tabs",
+        "dimension": 41.11111111111111,
+        "children": [
+          {
+            "id": "ac510027b1815db3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "periodic/daily/2023-06-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf93e49ca92c7fb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "periodic/daily/2023-06-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 524.5
+  },
+  "right": {
+    "id": "3cbd65e30a0d88cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf933fb240f12ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "328fdcbbeef280f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "72b4f9cc25df8dda",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "periodic/daily/2023-06-21.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.18462326225858172,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "181cab1a3f545ffc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a967de8859ad2f8",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "48fb3553d69f73e6",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "73807e614e8444c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57be8fae10cd8ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "periodic/daily/2023-06-21.md"
+              }
+            }
+          },
+          {
+            "id": "82859845de2bb37e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "cmdr:PodNotes: Create Podcast Note": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "9f7626a72ffa560b",
+  "lastOpenFiles": [
+    "periodic/daily/2023-06-21.md",
+    "Untitled 2.md",
+    "files/README.md",
+    "projects/Три поля/Бизнес-план/Документ бизнес-плана.md",
+    "projects/Три поля/Бизнес-план/Конкуренты.md",
+    "projects/Три поля/Бизнес-план/Бизнес-стратегия.md",
+    "projects/Три поля/Бизнес-план/Анализ рынка.md",
+    "projects/Три поля/Бизнес-план/Описание продукта.md",
+    "projects/Три поля/Бизнес-план/ТуДу.md",
+    "projects/Три поля/Бизнес-план/Расчёты.md",
+    "projects/Три поля/Важные замечания к стратегическому управлению компанией..md",
+    "000-homepage.md",
+    "Сравнение себя идеального с собой.md",
+    "projects/Три поля/Собрания/Собрание 4. Исследование рынка..md",
+    "projects/Три поля/Собрания/Собрание 3. Конспект..md",
+    "projects/Три поля/Собрания/Собрание 3. Запуск стартапа - это не менее серьезно, чем женитьба.md",
+    "уровни священной раны.md",
+    "уровень СР - Самоконтроль.md",
+    "abstract for Семинар Алексея Арестовича Священная рана 29.04.23.md",
+    "Семинар Алексея Арестовича Священная рана 29.04.23.md",
+    "projects/Три поля/Untitled 1.md",
+    "projects/Три поля/Бизнес-план",
+    "projects/Три поля/tg bot/Untitled",
+    "Сказкотерапия от Алексея Арестовича.md",
+    "конспект по Сказкотерапия от Алексея Арестовича.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "periodic/daily/2023-05-23.md",
+    "projects/Образовательный бот с курсами",
+    "files/Собрание 3. Дополнение..png",
+    "files/Саня (Бородач).png",
+    "files/Pasted image 20230516034529.png",
+    "projects/Три поля/Собрания",
+    "projects/Три поля/tg bot",
+    "files/Руководитель (Саша Бородач).png",
+    "projects/Три поля",
+    "files/photo_2023-04-26_21-20-50.jpg",
+    "projects/Шабашка",
+    "repo",
+    "files/Excalidraw 1",
+    "repo/4-files"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "line:(Арестович)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 2.4,
+  "nodeSizeMultiplier": 0.568074576271186,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.381898305084746,
+  "repelStrength": 9.98101694915254,
+  "linkStrength": 0.768067796610169,
+  "linkDistance": 191,
+  "scale": 0.6316046762907589,
+  "close": true
+}

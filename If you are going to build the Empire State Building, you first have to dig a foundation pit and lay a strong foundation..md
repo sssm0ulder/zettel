@@ -1,0 +1,2 @@
+- And if you want to build a house somewhere in the suburbs, all you have to do is pour a 15-centimeter concrete base.
+	- Our school system still believes in houses without foundations

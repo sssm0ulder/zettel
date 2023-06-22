@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "buttons for templates",
+      "path": "buttons for templates.md"
+    },
+    {
+      "type": "file",
+      "title": "homepage",
+      "path": "home/000-homepage.md"
+    },
+    {
+      "type": "file",
+      "title": "000-homepage",
+      "path": "repo/1-home/000-homepage.md"
+    },
+    {
+      "type": "file",
+      "title": "Guide",
+      "path": "home/000-Guide.md"
+    }
+  ]
+}

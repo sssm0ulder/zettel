@@ -1,0 +1,5 @@
+- A dialogue illustrating this:
+	- *"What kind of business are you in?"
+	- *"I'm a banker."
+	- *"Do you own a bank?"
+	- *"No, I work there."

@@ -1,0 +1,2 @@
+- AI
+	- Is a giving instruction to [[artifical intelligence|AI]]. 

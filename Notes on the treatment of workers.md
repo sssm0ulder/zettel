@@ -1,0 +1,2 @@
+- [[You can't give money up front to laborers-they don't do anything. Their motivation deteriorating]]
+- [[You shouldn't share information about a great employee with others.]]

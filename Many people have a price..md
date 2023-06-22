@@ -1,0 +1,1 @@
+All because fear and greed live in them. They are afraid of being out of money, and once they get it, they get caught up in greed and covetousness. A [[life pattern]] emerges.

@@ -1,0 +1,3 @@
+- How to spot an opportunity that others didn't see
+- How to get money when you don't have it
+- How to connect with people who are much smarter than you
